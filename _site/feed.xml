@@ -1,105 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-17T18:24:37-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">After Effects Tour</title><link href="http://localhost:4000/tutorials/1-point-1/" rel="alternate" type="text/html" title="After Effects Tour" /><published>2020-12-12T00:00:00-05:00</published><updated>2020-12-12T00:00:00-05:00</updated><id>http://localhost:4000/tutorials/1%20point%201</id><content type="html" xml:base="http://localhost:4000/tutorials/1-point-1/">&lt;p&gt;This tutorial will go through the process of setting up your Github repository so you can share your work in this class online.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-23T15:11:18-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">A Simple Sequence</title><link href="http://localhost:4000/projects/p1/" rel="alternate" type="text/html" title="A Simple Sequence" /><published>2020-08-23T00:00:00-04:00</published><updated>2020-08-23T00:00:00-04:00</updated><id>http://localhost:4000/projects/p1</id><content type="html" xml:base="http://localhost:4000/projects/p1/">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
 
-&lt;h3 id=&quot;step-1-make-a-github-account&quot;&gt;&lt;span id=&quot;step1&quot;&gt;Step 1: Make a Github account&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Navigate to &lt;a href=&quot;https://github.com/&quot;&gt;github.com&lt;/a&gt; and set up an account if you do not have one yet. You should be able to sign up from that page. Make sure you use an email address you use and a password you will remember. You will have verify your email so make sure you do that too.&lt;/p&gt;
+&lt;p&gt;Working with time is, most likely, a new dimension to consider while designing. Before making things move, we want to make sure we have a plan for that movement. Pick a simple task and thoroughly document that task through photographs. Perform the same task multiple times taking photos from different angles and at different times. Now, translate that documentation into a storyboard and design concept boards for key frames. The storyboard will give you an idea of pacing and narrative while the concept boards will show the visual language of the finished sequence. The fictional, final sequence would have a title slide with the name of the sequence, have around 5–15 seconds of action, and have ending credits.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step1.png&quot; alt=&quot;image of Github sign up page&quot; title=&quot;Step 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The storyboards and concept boards do not need to be a one to one recreation of the task you documented. The task was your starting point and the storyboards and concept boards are where you can start to bring make that task more interesting. The storyboards can introduce different cuts or settings for the task to help build the narrative and the visual direction can influence the mood of the story. Figure out a way to make a mundane task exciting and able to keep the viewers attention.&lt;/p&gt;
 
-&lt;h3 id=&quot;step-2-make-a-github-repository&quot;&gt;&lt;span id=&quot;step2&quot;&gt;Step 2: Make a Github Repository&lt;/span&gt;&lt;/h3&gt;
-&lt;h4 id=&quot;step-2a-new-repository&quot;&gt;Step 2A: New Repository&lt;/h4&gt;
-&lt;p&gt;Once you have made and verified your account, sign in to Github. On the main page you should see an option to create a repository. Wherever that might be, click it to start the process of creating a new repository. On the screenshot below it is the green button that says “new” over in the left sidebar.&lt;/p&gt;
+&lt;h4 id=&quot;requirements&quot;&gt;Requirements&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step2a.png&quot; alt=&quot;image of Github landing page&quot; title=&quot;Step 2a&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Documentation photographs&lt;/li&gt;
+  &lt;li&gt;Storyboard&lt;/li&gt;
+  &lt;li&gt;5 concept boards (title, three from the middle, end credits)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h4 id=&quot;step-2b-create-repository&quot;&gt;Step 2B: Create Repository&lt;/h4&gt;
-&lt;p&gt;On the next screen you need to fill in a few pieces of information. You need to fill in the repository name. This can be anything but I would recommend something like “avt217” or “introtoweb” or something similar. I would keep it all lowercase and don’t use any spaces. You do not need a description and keep the repository public. The final step here is to check the box that says “Initialize this repository with a README.” Not checking this box will force you to delete the repository and start over so make sure you check it.&lt;/p&gt;
+&lt;h3 id=&quot;checkpoints&quot;&gt;Checkpoints&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;August 25: Start&lt;/li&gt;
+  &lt;li&gt;September 1: Documentation and references for two visual directions&lt;/li&gt;
+  &lt;li&gt;September 8: Initial storyboard and two visual directions&lt;/li&gt;
+  &lt;li&gt;September 15: Refined storyboard and five concept boards&lt;/li&gt;
+  &lt;li&gt;September 22: Final photo documentation, storyboard, and concept boards&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Michael McDermott</name></author><category term="projects" /><summary type="html">Develop a storyboard and visual style for a simple task. This project focuses on the planning process for creating motion and how to take something simple and make it more interesting through the potential of motion.</summary></entry><entry><title type="html">20 Questions</title><link href="http://localhost:4000/exercises/e1/" rel="alternate" type="text/html" title="20 Questions" /><published>2020-08-23T00:00:00-04:00</published><updated>2020-08-23T00:00:00-04:00</updated><id>http://localhost:4000/exercises/e1</id><content type="html" xml:base="http://localhost:4000/exercises/e1/">&lt;h4 id=&quot;exercise-1-20-questions&quot;&gt;Exercise 1: 20 Questions&lt;/h4&gt;
 
-&lt;p&gt;Once you have a repository name and have checked the box, click “Create repository.”&lt;/p&gt;
+&lt;p&gt;Read through each discussion post from your classmates and create a web page that answers each question asked. That means you will answer 20 questions total — 19 of your classmates questions plus one of your own. The page will be simple and use default styles but should display the question and your answer in a clear way. If you need a little help starting, check out the &lt;a href=&quot;/tutorials/1-point-2&quot;&gt;1.2 tutorial&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step2b.png&quot; alt=&quot;image of Github create a repository page&quot; title=&quot;Step 2b&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;requirements&quot;&gt;Requirements&lt;/h5&gt;
 
-&lt;h4 id=&quot;step-2c-create-gh-pages-branch&quot;&gt;Step 2C: Create gh-pages Branch&lt;/h4&gt;
-&lt;p&gt;After you click “Create repository” it should take you to a page that looks like this:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; element with relevant content&lt;/li&gt;
+  &lt;li&gt;a page title using a heading element&lt;/li&gt;
+  &lt;li&gt;20 questions and answers&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step2c1.png&quot; alt=&quot;image of created repository page&quot; title=&quot;Step 2c&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;due&quot;&gt;Due Sunday, August 30 by 11:59 ET&lt;/span&gt;&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="exercises" /><summary type="html">Exercise 1: 20 Questions</summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 1" /><published>2020-08-18T00:00:00-04:00</published><updated>2020-08-18T00:00:00-04:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
 
-&lt;p&gt;If your page does not look like that image you need to make a new repository and make sure you check the “Initialize this repository with a README” box.&lt;/p&gt;
-
-&lt;p&gt;Once your repository landing page looks like the above screenshot look for the button around the middle of the page on the left side that says “Branch: master” and click it. In the text field that pops up type “gh-pages” and then click “Create branch: gh-pages from ‘master’”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step2c2.png&quot; alt=&quot;image of creating a new branch&quot; title=&quot;Step 2c&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The screen should look generally the same but you should have a “Branch created” banner at the top and the button that used to say “Branch: master” should now say “Branch: gh-pages”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step2c3.png&quot; alt=&quot;image of Github showing new branch&quot; title=&quot;Step 2c&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;step-3-download-the-github-desktop-app&quot;&gt;&lt;span id=&quot;step3&quot;&gt;Step 3: Download the Github Desktop app&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Go to &lt;a href=&quot;https://desktop.github.com/&quot;&gt;desktop.github.com&lt;/a&gt; and download the Github Desktop app. This screen should recognize the operating system you are using and present you with the appropriate download option.&lt;/p&gt;
-
-&lt;p&gt;Once you have downloaded it, install it on your computer, open it up, and log in with your github.com account.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-4-clone-your-repository&quot;&gt;&lt;span id=&quot;step4&quot;&gt;Step 4: Clone your repository&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Now that you are logged in to your account go to &lt;em&gt;File &amp;gt; Clone Repository&lt;/em&gt; which should bring up a pop up showing your repositories. Find the repository you just created for this class (if it is the only repository you have it should be the only repository on the list) and select it.&lt;/p&gt;
-
-&lt;p&gt;Once you have it selected click the “Choose…” button to select where you will put the repository on your computer. This needs to be a permanent location. Once you have cloned it to that location you cannot move the folder or you will break the link and have to reclone your repository. I have a folder called “Repositories” in my “Documents” folder where I clone all my repositories. So choose the location you are cloning this to on your computer carefully.&lt;/p&gt;
-
-&lt;p&gt;Once you have your Local Path chosen, click “Clone.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step4a.png&quot; alt=&quot;image of Github Desktop app clone options&quot; title=&quot;Step 4a&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After you clone your repository you should have a screen that looks like this.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step4b.png&quot; alt=&quot;image of Github Desktop repository landing page&quot; title=&quot;Step 4b&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The last thing you want to do here is switch to the gh-pages branch you created. To do that, click on the dropdown that says “Current Branch” and select the origin/gh-pages branch from the “Other Branches” section.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step4c.png&quot; alt=&quot;image of Github Desktop changing branches menu&quot; title=&quot;Step 4c&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;step-5-pushing-work&quot;&gt;&lt;span id=&quot;step5&quot;&gt;Step 5: Pushing work&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Now you can start to add work to your repository which will allow those files to show up as a live website you can share. The Github Desktop app basically is an app that tracks additions, deletions, or changes to the files in your local repository (the folder on your computer you just cloned). It is not an editor. When you change something in your repository the app will recognize that, show you what changed, and then wait for you to push those changes to the cloud based repository that the live site is built from.&lt;/p&gt;
-
-&lt;p&gt;If you don’t have any work to add to the repository right now that is fine but when you do come back to this step.&lt;/p&gt;
-
-&lt;p&gt;When you have made any changes to your local repository you need to push them to the repository stored on Github. You will know there are changes because in the left sidebar you will see the changes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step5a.png&quot; alt=&quot;image of Github Desktop showing changes to repository&quot; title=&quot;Step 5a&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;step-5a-give-the-commit-a-summary-name&quot;&gt;Step 5A: Give the Commit a Summary (Name)&lt;/h4&gt;
-&lt;p&gt;There are three steps to this process. First you need to fill in the “Summary (required)” field in the lower left. This is the name that you can use to track the changes you made for this commit. If for any reason you needed to go backwards in your repository these names could be helpful. So try and give this a useful name.&lt;/p&gt;
-
-&lt;h4 id=&quot;step-5b-commit-the-changes&quot;&gt;Step 5B: Commit the Changes&lt;/h4&gt;
-&lt;p&gt;Once you have given your commit a summary the “Commit to gh-pages” button should turn blue and you can now click it. This will commit the changes you made to your repository.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step5b.png&quot; alt=&quot;image of Github Desktop naming the commit step&quot; title=&quot;Step 5b&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;step-5c-push-the-commit&quot;&gt;Step 5C: Push the Commit&lt;/h4&gt;
-&lt;p&gt;After you click commit, the screen will change and you can now click the blue “Push origin” button or the “Push origin” tab in the top bar of the window. Either will work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/1p1/step5c.png&quot; alt=&quot;image of Github Desktop committing step&quot; title=&quot;Step 5c&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It will take a second to push the changes to the repository and once that process finishes you will go back to a window that shows no changes. The next time you have changes to your local files you can repeat this process.&lt;/p&gt;
-
-&lt;h4 id=&quot;a-few-notes&quot;&gt;A Few Notes&lt;/h4&gt;
-&lt;p&gt;Once you have pushed your commits it takes a couple minutes for those changes to be reflected on your live website. Give your site a little time for it to refresh before thinking something went wrong (if 10 minutes of refreshing hasn’t changed anything there might be an issue). You also do not need to push every change you make. I often make commits based on finishing the task I was working on and push when I want to see those changes live, rather than pushing commits every few minutes.&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="tutorials" /><summary type="html">General overview of After Effects.</summary></entry><entry><title type="html">Week 15</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 15" /><published>2020-11-24T00:00:00-05:00</published><updated>2020-11-24T00:00:00-05:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 14</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 14" /><published>2020-11-17T00:00:00-05:00</published><updated>2020-11-17T00:00:00-05:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 13</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 13" /><published>2020-11-10T00:00:00-05:00</published><updated>2020-11-10T00:00:00-05:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 12</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 12" /><published>2020-11-03T00:00:00-05:00</published><updated>2020-11-03T00:00:00-05:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 11</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 11" /><published>2020-10-27T00:00:00-04:00</published><updated>2020-10-27T00:00:00-04:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 10</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 10" /><published>2020-10-20T00:00:00-04:00</published><updated>2020-10-20T00:00:00-04:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 9</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 9" /><published>2020-10-13T00:00:00-04:00</published><updated>2020-10-13T00:00:00-04:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 8</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 8" /><published>2020-10-06T00:00:00-04:00</published><updated>2020-10-06T00:00:00-04:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;nothing&quot;&gt;Nothing&lt;/h4&gt;
-
-&lt;p&gt;No class for Fall Break&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Week 7</title><link href="http://localhost:4000/due/due/" rel="alternate" type="text/html" title="Week 7" /><published>2020-09-29T00:00:00-04:00</published><updated>2020-09-29T00:00:00-04:00</updated><id>http://localhost:4000/due/due</id><content type="html" xml:base="http://localhost:4000/due/due/">&lt;h4 id=&quot;exercise-6-bouncing-ball&quot;&gt;Exercise 6: Bouncing Ball&lt;/h4&gt;
-
-&lt;p&gt;Uploaded to your Vimeo account, add it to the class group, and submit a link to the video on Blackboard&lt;/p&gt;
-
-&lt;h4 id=&quot;p23-checkpoint-3&quot;&gt;P2.3: Checkpoint 3&lt;/h4&gt;
-
-&lt;p&gt;Uploaded the video to your Vimeo account, add it to the class group, and submit a link to the video on Blackboard&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Exercise 6: Bouncing Ball</summary></entry></feed>
+&lt;p&gt;It’s the first day of class!&lt;/p&gt;</content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html">Nothing</summary></entry><entry><title type="html">Anthony</title><link href="http://localhost:4000/student/Anthony/" rel="alternate" type="text/html" title="Anthony" /><published>2020-08-13T00:00:00-04:00</published><updated>2020-08-13T00:00:00-04:00</updated><id>http://localhost:4000/student/Anthony</id><content type="html" xml:base="http://localhost:4000/student/Anthony/"></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"></summary></entry><entry><title type="html">Ashraf</title><link href="http://localhost:4000/student/Ashraf/" rel="alternate" type="text/html" title="Ashraf" /><published>2020-08-13T00:00:00-04:00</published><updated>2020-08-13T00:00:00-04:00</updated><id>http://localhost:4000/student/Ashraf</id><content type="html" xml:base="http://localhost:4000/student/Ashraf/"></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"></summary></entry><entry><title type="html">Bader</title><link href="http://localhost:4000/student/Bader/" rel="alternate" type="text/html" title="Bader" /><published>2020-08-13T00:00:00-04:00</published><updated>2020-08-13T00:00:00-04:00</updated><id>http://localhost:4000/student/Bader</id><content type="html" xml:base="http://localhost:4000/student/Bader/"></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"></summary></entry><entry><title type="html">Fanlong</title><link href="http://localhost:4000/student/Fanlong/" rel="alternate" type="text/html" title="Fanlong" /><published>2020-08-13T00:00:00-04:00</published><updated>2020-08-13T00:00:00-04:00</updated><id>http://localhost:4000/student/Fanlong</id><content type="html" xml:base="http://localhost:4000/student/Fanlong/"></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"></summary></entry><entry><title type="html">Gustavo</title><link href="http://localhost:4000/student/Gustavo/" rel="alternate" type="text/html" title="Gustavo" /><published>2020-08-13T00:00:00-04:00</published><updated>2020-08-13T00:00:00-04:00</updated><id>http://localhost:4000/student/Gustavo</id><content type="html" xml:base="http://localhost:4000/student/Gustavo/"></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"></summary></entry><entry><title type="html">Kat</title><link href="http://localhost:4000/student/Kat/" rel="alternate" type="text/html" title="Kat" /><published>2020-08-13T00:00:00-04:00</published><updated>2020-08-13T00:00:00-04:00</updated><id>http://localhost:4000/student/Kat</id><content type="html" xml:base="http://localhost:4000/student/Kat/"></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"></summary></entry><entry><title type="html">Kellyann</title><link href="http://localhost:4000/student/Kellyann/" rel="alternate" type="text/html" title="Kellyann" /><published>2020-08-13T00:00:00-04:00</published><updated>2020-08-13T00:00:00-04:00</updated><id>http://localhost:4000/student/Kellyann</id><content type="html" xml:base="http://localhost:4000/student/Kellyann/"></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"></summary></entry></feed>

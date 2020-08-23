@@ -4,37 +4,22 @@ title: Reference
 ---
 
 ### Websites, Useful
-* [Class Repository - Github](#)
-* [Class Repository - Live](#)
-* [HTML Elements Cheatsheet](https://gmu-gd.github.io/web20-spring/files/learn-html-elements.pdf)
-* [Codecademy](https://www.codecademy.com/)
-* [Interneting is Hard](https://www.internetingishard.com/)
-* [A List Apart](https://alistapart.com/)
+* [Class Vimeo Group](https://vimeo.com/groups/680125)
 
-### Books
-* [Learning Web Design](https://www.learningwebdesign.com/)
-* [A Book Apart](https://abookapart.com/)
-* [Type on Screen](https://www.amazon.com/Type-Screen-Critical-Designers-Developers/dp/161689170X?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=161689170X)
+### Websites, Tutorials
+* [Adobe After Effects Tutorials](https://helpx.adobe.com/after-effects/tutorials.html)
+* [School of Motion](https://www.schoolofmotion.com/)
 
-### Software, Coding
-* [Atom](https://atom.io/)
-* [Sublime Text](https://www.sublimetext.com/)
-* [Brackets](http://brackets.io/)
+### Articles
+* [An Interview with Karin Fong](https://create.adobe.com/2018/5/11/type_and_title_seque.html)
+* [Shira Inbar on the Power of Motion in Graphic Design](https://eyeondesign.aiga.org/shira-inbar-on-the-power-of-motion-in-graphic-design/)
 
-### Software, Design
-* [Adobe XD](https://www.adobe.com/products/xd.html)
-* [Sketch](https://www.sketch.com/)
-* [Figma](https://www.figma.com/)
-* [Lunacy](https://icons8.com/lunacy)
+### Software
+* [Adobe After Effects](https://www.adobe.com/products/xd.html)
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
-### Software, Other
-* [GitHub Desktop](https://desktop.github.com/)
-* [Zoom](https://zoom.us/)
-* [Slack](https://slack.com/)
-
-### Websites, Showcase
-* [Lynn Fisher](https://lynnandtonic.com/)
-* [A Message from Earth](https://amessagefrom.earth/)
-* [NYT Summer Reading](https://www.nytimes.com/interactive/2019/books/summer-reading.html)
-* [User Inyerface](https://userinyerface.com/)
+### Visuals
+* [Pentagram Vimeo](https://vimeo.com/pentagramdesign) – [Muriel Cooper Bauhaus](https://vimeo.com/238311156)
+* [Duke and the Duck](https://vimeo.com/dukeduck)
+* [Art of the Title](https://www.artofthetitle.com/)
