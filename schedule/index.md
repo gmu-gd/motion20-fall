@@ -60,7 +60,7 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 
 #### Class
 * 4.1: 12 Principles of Animation
-* 4.1: Null Objects and Effects
+* 4.2: Null Objects and Effects
 
 #### Starting
 * E4: Sound and Motion <!--[Sound and Motion]({{ site.baseurl }}/projects#e4)-->
@@ -167,10 +167,10 @@ Come to class ready to work with your spookiest ideas. This week you will create
 Logo reveals are short videos that can tell a lot about the brand. This week we will cover the main ideas of what logo reveals should accomplish and then create our own.
 
 #### Lessons
-* 9.1 Logo Reveals
+* 8.1 Logo Reveals
 
 #### Starting
-* E8: Logo Animation <!--[Logo Animation]({{ site.baseurl }}/projects#e8)-->
+* E8: Logo Reveal<!--[Logo Reveal]({{ site.baseurl }}/projects#e8)-->
 
 #### Digital References
 * _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
@@ -181,7 +181,7 @@ Logo reveals are short videos that can tell a lot about the brand. This week we 
 In our final After Effects lesson we will dip our toes into the world of expressions.
 
 #### Lessons
-* 10.1: Expressions
+* 9.1: Expressions
 
 #### Starting
 * E9: Wash, Rinse, Repeat <!--[Wash, Rinse, Repeat]({{ site.baseurl }}/projects#e9)-->

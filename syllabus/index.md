@@ -12,77 +12,65 @@ This is a synchronous online course. That means we will meet once a week on Thur
 
 ### Prerequisites
 
-AVT 180: New Media in the Creative Arts, AVT 110: Digital Design Studio, or permission of instructor.
+AVT 217: Intro to Web Design and AVT 311: Graphic Design Principles and Methods
 
 ### Course Description
 
-An introduction to contemporary web design. Students gain hands-on experience with design issues specific to web-based forms as well as begin to write and understand the languages that make the web work.
+Motion Design introduces the theories, techniques and practices of motion design and the integration of design, image, sound, video and animation.
 
 ### Overview
 
-Building a website or web application is a multi-disciplinary design process that encompasses visual design, interface design, interaction design, content development, as well as business strategy. Exceptional web design is attentive to these different facets whether it is viewed from the perspective of product design, graphic design, or industrial design. Every student stretches themselves in this course.
+This is not a software training course. Although there will be occasional in-class software demos a majority of the skill with the software will need to be self taught. Through the exercises, in-class workshops, projects, and critiques the students will learn the fundamental principles of time-based design grounded in traditional design principles.
 
-This hands-on course teaches students how to conceive, prototype, design, and program websites. In order to better understand the possibilities and constraints of browser-based design, participants of this course learn how to build websites using modern web standards. This is not a course that will teach students about building websites that use a CMS or framework like Wordpress, Squarespace, Bootstrap, or any others. All projects in this course will be coded from scratch.
-
-Participants should finish the course with a working knowledge of HTML and CSS, improved web imaging, layout, and typography skills, and familiarity with more technical facets like jQuery and responsive design.
+Participants should finish the course with a working knowledge of motion design principles and methods as well as a better understanding of the production side of the medium.
 
 ### Objectives
 
-* Develop general design skills
-* Translate print design skills to screen based applications
-* Apply best practices for folder and file naming, organization, and structure
-* Understand the process of designing and building a website
-* Demonstrate knowledge of HTML and CSS syntax and structure
-* Analyze everyday interactions on the web from a critical perspective
+* To improve general design skills
+* To have an understanding of storyboarding
+* To understand the technical aspects of motion design
+* To analyze how motion can enhance a narrative
+* To understand how static design principles apply to a motion-based medium
 
 ### Textbook
 
-The textbook for this course is available for purchase/rent on Amazon and other online retailers but is also available as a digital copy through the Mason library. Instructions on how to access the digital copy are on Blackboard. There is also an associated website for the book at [learningwebdesign.com](https://www.learningwebdesign.com/index.html)
-
-_Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics_ 5th edition by Jennifer Niederst Robbins ISBN: 978-1-491-96020-2
+There is no textbook for this course.
 
 ### Programs
 
-There are many different programs available to use for the work in this class. The programs I will be using are highlighted but alternatives are also listed.
-
 #### design
-
-<span class="command">Adobe XD</span>, Figma, Sketch, Illustrator, Lunacy. We will not be using Photoshop for design work in this course.
-
-#### coding
-
-<span class="command">Atom</span>, Sublime Text, Brackets. We will not be using Dreamweaver, Notepad, or TextEdit in this course.
+You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester.
 
 #### other
 
-<span class="command">Zoom</span> (holding class sessions), <span class="command">Slack</span> (communication platform), <span class="command">Github Desktop</span> (updating your website), <span class="command">Chrome</span>, Safari, or Firefox (viewing your website, Internet Explorer is not an acceptable browser for this class)
+Zoom (holding class sessions), Slack (communication platform), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos)
 
 ### Content
 
-This course consists of many shorter exercises, one course long project, quizzes, and discussion board requirements. The exercises begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and the discussion board posts will be used for critiques and analysis of relevant topics.
+This course consists of many shorter exercises, a few longer projects, quizzes, and discussion board requirements. The exercises are to begin to familiarize students with specific concepts and ideas and the project is a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and the discussion board posts will be used for critiques and analysis of relevant topics.
 
-#### project 1: linking narrative
+#### project 1: a simple sequence
 
-The structure of a website is equally as important as the design of a website. Getting from page X to page Y needs to be intuitive and simple. This structure also needs to be reflected on the back end. Create a site that takes the user through a narrative using text, links, and multiple pages. [More information here]({{ site.baseurl }}/projects).
+Conceptions of time start to get fuzzy when dealing with individual frames. A 10 second video at 30 frames a second needs 300 frames to fill that time. This project will focus on the importance designing for motion without actually animating anything. Students will create storyboards, animatics, and key frames of a sequence. [More information here]({{ site.baseurl }}/projects).
 
 
-#### project 2: website for a [blank]
+#### project 2: obstructions
 
-Students will conceptualize, plan, design, and code a multipage website using one of several provided topics. The project will build off of the lessons each week and be a synthesis of the concepts and skills learned over the course of the semester. Each students project will be unique in content and form but be based on the same set of requirements. [More information here]({{ site.baseurl }}/projects).
+Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. Students will create a short video and then create the same video three more times. Each new video will be create using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
 
-#### project 3: single serve
+#### project 3: [various]
 
-A single serve website is comprised of a single page that only does one thing. You will come up with a concept and design for a single serve website and then build the website. The concept can be simple or complex but the site must only be a single page and serve a single function. The URL of the site should help explain the concept and the content should help reinforce the URL. If you need a place to look at single serve websites go [here](https://theuselessweb.com/). That website is a single serve website that takes you to other single serve websites. [More information here]({{ site.baseurl }}/projects).
+Project three will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
 
 ### Schedule
 
-The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this summer with due dates. It is subject to additions and subtractions.
+The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this fall. It is subject to additions and subtractions.
 
 ### Virtual Meeting Guide
 
 A few points to guide our virtual meetings. These are not demands but a guide to help us have a more engaging and productive meeting.
 
-1. Treat this as much like coming to class on campus as as you can.
+1. Treat this as much like coming to class on campus as you can.
 2. Join early. We are most likely at home so you shouldn’t have any extra traffic, long lines at the coffee shop, etc. Joining early will also help you work out any technical issues you might be experiencing with audio and/or video.
 3. Mute yourself upon entering the room unless, of course, you are talking. Remember when you start to talk to unmute yourself. Different platforms have different methods for muting and unmuting but it is typically easy to find in the main set of buttons in the bottom middle of the window.
 4. Have your video turned on with you in the frame. It is nice to see faces in a time where we do not get to see a lot of faces. Having your video on also helps you stay focused and engaged.
@@ -115,14 +103,14 @@ This percentage will be an average between your total quiz grade and your total 
 This percentage will primarily be based on discussion board assignments and critiques with a smaller portion based on participation in our virtual channels (Slack and Zoom). As long as you are engaged in those channels throughout the semester you will be fine here. A note about this grade in Blackboard &emdash; the grade will start as a 100 and you will lose points for not participating. For example, if you are supposed to give feedback to a classmate by a certain day and you do not give that feedback you will lose points from the participation grade. There is no way to make up these points.
 
 #### Exercises (25%)
-The exercises are graded using two different rubrics depending on the type of exercise. One rubric will be used for an exercise based more on design and one rubric will be used for an exercise based more on coding. The exercise are meant to be quicker skill building assignments.
+The exercises are graded using a basic rubric that looks at your ability to submit the exercise on time, to follow the requirements of the exercise, the overall design of the exercise, and the motion of the exercise. The exercise are meant to be quicker skill building assignments.
 
 #### Projects (40%)
 Each project will generate two different grades. One grade will be based on your ability to submit the required weekly work for the project. These weekly submissions use a simple rubric based on your effort, timeliness, and completion. The second grade will be based on the final project you submit and has a more extensive rubric. At the end of the semester you will have 6 total project grades that are all weighted equally for this 40%.
 
 ### Technology Requirements
 
-Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. With the suspension of in-person classes, CVPA computer labs will not be available to fulfill this requirement. If you do not already have an Adobe license and are interested in purchasing one or if you already have a license and need to renew it, please visit [Adobe](https://www.adobe.com/creativecloud/buy/students.html). If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit the [Student Emergency Assistance Fund](https://ulife.gmu.edu/student-emergency-assistance-funding-2-2-2/) to apply.
+Note that this course requires the use of Adobe Creative Cloud applications. With the suspension of in-person classes, CVPA computer labs will not be available to fulfill this requirement. If you do not already have an Adobe license and are interested in purchasing one or if you already have a license and need to renew it, please visit [Adobe](https://www.adobe.com/creativecloud/buy/students.html). If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit the [Student Emergency Assistance Fund](https://ulife.gmu.edu/student-emergency-assistance-funding-2-2-2/) to apply.
 
 ### Visual Voices Lecture Series
 
@@ -132,14 +120,14 @@ Visual Voices is a year-long series of lectures by artists, art historians and o
 <li><span class="date">September 10:</span> D. Dominick Lombardi, "Resilience and Focus"</li>
 <li><span class="date">September 24:</span> Steve Rost, "Channeling the Flâneur and other stories"</li>
 <li><span class="date">October 8:</span> Augustina Woodgate, "Critical Circulation"</li>
-<li><span class="date">October 22:</span> Adriana Ospina, "Working at the Art Museum of the Americas, Latin America and Diplomac"</li>
+<li><span class="date">October 22:</span> Adriana Ospina, "Working at the Art Museum of the Americas, Latin America and Diplomacy"</li>
 </ul>
 
 For Fall 2020, this [lecture series](http://art.gmu.edu/visualvoices/) will be held online.
 
 ### Artsbus
 
-Due to Covid, Fall 2020 dates for Artsbus have been cancelled.
+Due to Covid, Fall 2020 dates for Artsbus have been canceled.
 
 ### Students with Disabilities and Learning Differences
 
