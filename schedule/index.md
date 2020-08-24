@@ -131,11 +131,6 @@ Our After Effects training has generally come to an end by this week and we star
 ---
 
 ### October 13 &mdash; Week 8
-No class, fall break. Your Monday classes will meet on this day, we will not.
-
----
-
-### October 20 &mdash; Week 9
 Individual meetings this week to present your final project beginnings.
 
 #### Lessons
@@ -146,6 +141,20 @@ Individual meetings this week to present your final project beginnings.
 
 #### Digital References
 * None
+
+---
+
+### October 20 &mdash; Week 9
+Logo reveals are short videos that can tell a lot about the brand. This week we will cover the main ideas of what logo reveals should accomplish and then create our own.
+
+#### Lessons
+* 8.1 Logo Reveals
+
+#### Starting
+* E8: Logo Reveal<!--[Logo Reveal]({{ site.baseurl }}/projects#e8)-->
+
+#### Digital References
+* _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
 
 ---
 
@@ -164,16 +173,7 @@ Come to class ready to work with your spookiest ideas. This week you will create
 ---
 
 ### November 3 &mdash; Week 11
-Logo reveals are short videos that can tell a lot about the brand. This week we will cover the main ideas of what logo reveals should accomplish and then create our own.
-
-#### Lessons
-* 8.1 Logo Reveals
-
-#### Starting
-* E8: Logo Reveal<!--[Logo Reveal]({{ site.baseurl }}/projects#e8)-->
-
-#### Digital References
-* _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
+Election Day, no class. Go vote if you haven't yet!
 
 ---
 
