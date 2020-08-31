@@ -30,10 +30,11 @@ Motion projects take thought and planning to execute well. This week we will cov
 * 2.1: Planning for Motion (Shots, Storyboards, Concept Boards, Animatics)
 
 #### Starting
-* E2: Flip Book  <!---[Flip Book]({{ site.baseurl }}/projects#e2)-->
+* E2: [Flip Book]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
 * _School of Motion:_ [What Are Animatics, and Why Are They Important?](https://www.schoolofmotion.com/blog/what-are-animatics-and-why-are-they-important)
+* _Studio Binder_ [Every Shot Size Explained](https://www.youtube.com/watch?v=AyML8xuKfoc)
 
 ---
 
