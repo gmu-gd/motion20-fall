@@ -34,7 +34,7 @@ Motion projects take thought and planning to execute well. This week we will cov
 
 #### Digital References
 * _School of Motion:_ [What Are Animatics, and Why Are They Important?](https://www.schoolofmotion.com/blog/what-are-animatics-and-why-are-they-important)
-* _Studio Binder_ [Every Shot Size Explained](https://www.youtube.com/watch?v=AyML8xuKfoc)
+* _Studio Binder:_ [Every Shot Size Explained](https://www.youtube.com/watch?v=AyML8xuKfoc)
 
 ---
 
