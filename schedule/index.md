@@ -47,7 +47,7 @@ After Effects is a complex and powerful program which we will only start to unde
 * 3.3: Position, Scale, Opacity, Rotation
 
 #### Starting
-* E3: Literal Type <!--[Literal Type]({{ site.baseurl }}/projects#e3)-->
+* E3: [Literal Type]({{ site.baseurl }}/projects#e3)
 
 #### Digital References
 * _Adobe:_ [Get to Know After Effects](https://helpx.adobe.com/after-effects/how-to/getting-started-after-effects.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
