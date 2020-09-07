@@ -52,7 +52,7 @@ After Effects is a complex and powerful program which we will only start to unde
 #### Digital References
 * _Adobe:_ [Get to Know After Effects](https://helpx.adobe.com/after-effects/how-to/getting-started-after-effects.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
 * _Adobe:_ [Work with Compositions](https://helpx.adobe.com/after-effects/how-to/create-composition-animation.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
-* _School of Motion:_ [3 Pro Tipes for After Effects Beginners](https://www.schoolofmotion.com/blog/3-pro-tips-after-effects-beginners)
+* _School of Motion:_ [3 Pro Tips for After Effects Beginners](https://www.schoolofmotion.com/blog/3-pro-tips-after-effects-beginners)
 
 ---
 
