@@ -64,8 +64,8 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 * 4.2: Null Objects and Effects
 
 #### Starting
-* E4: Sound and Motion <!--[Sound and Motion]({{ site.baseurl }}/projects#e4)-->
-* P2: Start <!-- [Start]({{ site.baseurl }}/projects/p2) -->
+* E4: [Sound and Motion]({{ site.baseurl }}/projects#e4)
+* P2: [Start]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
 * _Disney:_ [The 12 Principles of Animation as Illustrated Through Disney and Pixar Films](https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/)
