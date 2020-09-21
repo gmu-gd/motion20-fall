@@ -76,14 +76,14 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 ---
 
 ### September 22 &mdash; Week 5
-The two topics covered this week are important for any motion project. Cuts and transitions allow the story to move from one scene to the next and inside After Effects the graph editor allows for fine control over the speed of motion to help make the motion more real.
+The two topics covered this week are important for any motion project. Cuts and transitions allow the story to move from one scene to the next and inside After Effects the graph editor allows for fine control over the speed of motion to help it feel more realistic.
 
 #### Class
 * 5.1: Cuts and Transitions
 * 5.2: Graph Editor
 
 #### Starting
-* E5: Type in Motion <!--[Type in Motion]({{ site.baseurl }}/projects#e5)-->
+* E5: [Type in Motion]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
 * _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
