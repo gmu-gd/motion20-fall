@@ -89,8 +89,9 @@ The two topics covered this week are important for any motion project. Cuts and 
 * _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
 * _School of Motion:_ [Using the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/graph-editor-after-effects)
 * _School of Motion:_ [Intro to the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/intro-to-the-graph-editor-in-after-effects)
-* _Adobe:_ [Buld Custom Transitions](https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json)
+* _Adobe:_ [Build Custom Transitions](https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json)
 * _Adobe:_ [Create Dynamic Movement Between Keyframes with the Graph Editor](https://helpx.adobe.com/after-effects/how-to/adjusting-keyframes-dynamic-movement.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
+* _RocketJump Film School_ [Cuts &amp; Transitions 101](https://youtu.be/OAH0MoAv2CI)
 
 ---
 
