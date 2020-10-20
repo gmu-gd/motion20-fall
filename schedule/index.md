@@ -147,12 +147,27 @@ Individual meetings this week to present your final project beginnings.
 ---
 
 ### October 20 &mdash; Week 9
-Logo reveals are short videos that can tell a lot about the brand. This week we will cover the main ideas of what logo reveals should accomplish and then create our own.
+We will take another look at title sequences and a few kinetic type videos. The main focus will be be reviewing the work for Project 3.
 
 #### Lessons
-* 8.1 Logo Reveals
+* 8.1: Title Sequences
 
 #### Starting
+* None
+
+#### Digital References
+* None
+
+---
+
+### October 27 &mdash; Week 10
+Come to class ready to work with your spookiest ideas. This week you will create a video in class and we will screen them all at the end. We will also cover the main ideas of what logo reveals should accomplish and then create our own.
+
+#### Lessons
+* 9.1: Logo Reveals
+
+#### Starting
+* In class video project
 * E8: Logo Reveal<!--[Logo Reveal]({{ site.baseurl }}/projects#e8)-->
 
 #### Digital References
@@ -160,22 +175,8 @@ Logo reveals are short videos that can tell a lot about the brand. This week we 
 
 ---
 
-### October 27 &mdash; Week 10
-Come to class ready to work with your spookiest ideas. This week you will create a video in class and we will screen them all at the end.
-
-#### Lessons
-* None
-
-#### Starting
-* In class video project
-
-#### Digital References
-* None
-
----
-
 ### November 3 &mdash; Week 11
-Election Day, no class. Go vote if you haven't yet!
+Election Day, no class. Go vote if you haven't yet! 10 minute meetings available through the office hours link.
 
 ---
 
