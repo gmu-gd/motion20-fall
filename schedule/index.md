@@ -168,7 +168,7 @@ Come to class ready to work with your spookiest ideas. This week you will create
 
 #### Starting
 * In class video project
-* E8: Logo Reveal<!--[Logo Reveal]({{ site.baseurl }}/projects#e8)-->
+* E8: [Logo Reveal]({{ site.baseurl }}/projects#e8)
 
 #### Digital References
 * _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
