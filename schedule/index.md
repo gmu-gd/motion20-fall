@@ -187,21 +187,6 @@ In our final After Effects lesson we will dip our toes into the world of express
 * 9.1: Expressions
 
 #### Starting
-* E9: Wash, Rinse, Repeat <!--[Wash, Rinse, Repeat]({{ site.baseurl }}/projects#e9)-->
-
-#### Digital References
-* _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
-* _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
-
----
-
-### November 17 &mdash; Week 13
-Individual meetings this week to look at your projects.
-
-#### Lessons
-* Individual Meetings
-
-#### Starting
 * Nothing
 
 #### Digital References
@@ -209,11 +194,27 @@ Individual meetings this week to look at your projects.
 
 ---
 
+### November 17 &mdash; Week 13
+Individual meetings this week to look at your projects.
+
+#### Lessons
+* 9.1: Expressions
+* Individual Meetings
+
+#### Starting
+* E9: Wash, Rinse, Repeat (optional) <!--[Wash, Rinse, Repeat]({{ site.baseurl }}/projects#e9)-->
+
+#### Digital References
+* _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
+* _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
+
+---
+
 ### November 24 &mdash; Week 14
 Group meetings to discuss your projects.
 
 #### Lessons
-* Group
+* Group meetings
 
 #### Starting
 * Nothing
