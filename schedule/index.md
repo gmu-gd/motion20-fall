@@ -181,10 +181,10 @@ Election Day, no class. Go vote if you haven't yet! 10 minute meetings available
 ---
 
 ### November 10 &mdash; Week 12
-In our final After Effects lesson we will dip our toes into the world of expressions.
+To get back in the swing of things after election day we will review some exercises and meet in groups about project 3.
 
 #### Lessons
-* 9.1: Expressions
+* None
 
 #### Starting
 * Nothing
@@ -195,7 +195,7 @@ In our final After Effects lesson we will dip our toes into the world of express
 ---
 
 ### November 17 &mdash; Week 13
-Individual meetings this week to look at your projects.
+Individual meetings this week to look at your projects. For an out of class activity watch the tutorials below on expressions.
 
 #### Lessons
 * 9.1: Expressions
