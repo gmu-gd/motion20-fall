@@ -198,15 +198,16 @@ To get back in the swing of things after election day we will review some exerci
 Individual meetings this week to look at your projects. For an out of class activity watch the tutorials below on expressions.
 
 #### Lessons
-* 9.1: Expressions
+* 9.1: Expressions (look at Digital Resources)
 * Individual Meetings
 
 #### Starting
-* E9: Wash, Rinse, Repeat (optional) <!--[Wash, Rinse, Repeat]({{ site.baseurl }}/projects#e9)-->
+* E9: [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9)
 
 #### Digital References
 * _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
 * _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
+* _School of Motion:_ [How to Use the Loop Expression in After Effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
 
 ---
 
